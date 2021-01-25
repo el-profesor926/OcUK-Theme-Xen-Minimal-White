@@ -42,7 +42,7 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Applies To</b> - overclockers
 
 ## Issues
-If you have an issue or a comment about this theme please report it below:<br/>
+If you have an issue, change request or comment about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-White/issues">/OcUK-Theme-Xen-Minimal-White/issues</a>
 
 ## Notes
