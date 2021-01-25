@@ -41,6 +41,8 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Date Created</b> - February 19, 2020<br/>
 <b>Applies To</b> - overclockers
 
+If you have any problems with this theme please report an issue in the github issue section for this theme.<br/>
+https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-White/issues
 
 ## Installation
 
