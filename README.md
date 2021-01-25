@@ -16,7 +16,16 @@
 
 ## Description
 
-A dark theme for the new forum at OcUK. Now complete and polished!
+Piggy backed from Xen Minimal Curvy Neon so not all new code, new code is at the bottom.
+Right at the bottom of the code is the following:
+
+/********** Adjust width below according to username length **********/
+
+.formPopup .primaryControls input.textCtrl {
+width: 70px;
+}
+
+Adjust the width of the Quicksearch bar depending on username length.
 
 If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
 
