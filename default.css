@@ -2957,6 +2957,15 @@ dd.lockedAlert {
 .node .nodeLastPost {
     color: #555;
 }
+.navTabs .navLink, 
+.navTabs .SplitCtrl,
+#headerMover #headerProxy,
+#header,
+.PageNav,
+.breadBoxTop, 
+.breadBoxBottom {
+    background-color: transparent;
+}
 
 /********** Adjust width below according to username length **********/
 
