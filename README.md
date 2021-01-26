@@ -46,14 +46,14 @@ If you have an issue, change request or comment about this theme please report i
 <a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-White/issues">/OcUK-Theme-Xen-Minimal-White/issues</a>
 
 ## Notes
-To use these themes you will need the Stylish browser extension for your chosen browser or forks of listed browsers <br />
+To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers <br />
 (vivaldi, palemoon etc):
 
-<a href="https://addons.mozilla.org/en-US/firefox/addon/stylish/">Firefox</a>
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/styl-us/">Firefox</a>
 •
-<a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en">Chromium</a>
+<a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Chromium</a>
 •
-<a href="https://addons.opera.com/en/extensions/details/stylish/">Opera</a>
+<a href="https://addons.opera.com/en-gb/extensions/details/stylus/">Opera</a>
 •
 <a href="http://sobolev.us/stylish/">Safari</a>
 
