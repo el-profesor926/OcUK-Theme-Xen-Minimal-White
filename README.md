@@ -57,6 +57,6 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-Once you have the Stylus browser extention installed > click the "Install with Stylus" icon at the top of this page.
+Once you have the Stylus browser extention installed > click the "Install directlt with Stylus" icon at the top of this page.
 
 	
