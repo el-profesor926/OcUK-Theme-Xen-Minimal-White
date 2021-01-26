@@ -5,7 +5,7 @@
 <p align="center">
 	<img alt="MIT Licence" src="https://img.shields.io/pypi/l/ansicolortags.svg"></a>
 	<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-White/raw/main/Xen-Minimal-White.user.css"><img
-		alt="npm version"
+		alt="Install directly with stylus"
 		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
 </p>
 
