@@ -59,9 +59,4 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 ## Installation
 Once you have the Stylus browser extention installed > click the "Install directly with Stylus" icon at the top of this page.
 
-# Some markdown
-*click below*
-<a href="example.com" target="_blank">New Tab</a>
-...
-
 	
