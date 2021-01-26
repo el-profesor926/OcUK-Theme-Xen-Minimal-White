@@ -15,7 +15,7 @@
 
 <p align="center">
 	<strong>
-		<a href="https://www.overclockers.co.uk/forums/">Forum Website</a>
+		<a href="https://www.overclockers.co.uk/forums/" target="_blank">Forum Website</a>
 		•
 		<a href="https://www.overclockers.co.uk/forums/threads/the-ocuk-new-stylish-themes-thread-2017.18769736/">Thread Discussion</a>
 	</strong>
