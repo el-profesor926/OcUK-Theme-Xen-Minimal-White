@@ -2,6 +2,13 @@
 	Xen Minimal White OcUK Theme
 </h1>
 
+<p align="center">
+	<img alt="MIT Licence" src="https://img.shields.io/pypi/l/ansicolortags.svg"></a>
+	<a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-White/raw/main/Xen-Minimal-White.user.css"><img
+		alt="npm version"
+		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
+</p>
+
 <h3 align="center">
 	Designed by Wiiija
 </h3>
@@ -24,22 +31,14 @@
 
 ## Description
 
-Piggy backed from Xen Minimal Curvy Neon so not all new code, new code is at the bottom.
-Right at the bottom of the code is the following:
-
-/********** Adjust width below according to username length **********/
-
-.formPopup .primaryControls input.textCtrl {
-width: 70px;
-}
-
-Adjust the width of the Quicksearch bar depending on username length.
+Piggy backed from Xen Minimal Curvy Neon so not all new code
 
 If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
 
 <b>Author</b> - Sean Mayes<br />
 <b>Date Created</b> - February 19, 2020<br/>
 <b>Applies To</b> - overclockers
+
 
 ## Issues
 If you have an issue, change request or comment about this theme please report it below:<br/>
@@ -58,4 +57,6 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from default.css and save, done.
+Once you have the Stylus browser extention installed > click the "Install with Stylus" icon at the top of this page.
+
+	
