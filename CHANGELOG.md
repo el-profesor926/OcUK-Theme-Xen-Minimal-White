@@ -6,6 +6,7 @@ All notable changes to this project will be documented in this file.
 
 ### Changed
 - Fixed search bar size.
+- Updated screenshot in README.
 
 ## [1.0.2] - 27-01-2021
 
