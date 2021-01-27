@@ -31,7 +31,7 @@
 	<img src="Screenshot.png" alt="Screenshot of the theme">
 </p>
 
-## Description
+## Description :sparkles:
 Piggy backed from Xen Minimal Curvy Neon so not all new code
 
 If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
@@ -40,7 +40,7 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Date Created</b> - February 19, 2020<br/>
 <b>Applies To</b> - overclockers
 
-## Notes
+## Notes :sparkles:
 To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers (vivaldi, palemoon etc):
 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/styl-us/">Firefox</a>
@@ -51,12 +51,12 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 •
 <a href="http://sobolev.us/stylish/">Safari</a>
 
-## Installation
+## Installation :sparkles:
 > 01. Once you have the Stylus browser extention installed instructions above. <br />
 > 02. click the "Install directly with Stylus" icon at the top of this page. <br />
 > 03. Enable it in the Stylus/Stylish extension if it isn't already. <br />
 > 04. Load the ocuk forum and the layout should have changed.
 	
-## Issues
+## Issues :sparkles:
 If you have an issue, change request or comment about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/OcUK-Theme-Xen-Minimal-White/issues">/OcUK-Theme-Xen-Minimal-White/issues</a>
